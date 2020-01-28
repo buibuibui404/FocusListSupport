@@ -1,2 +1,2 @@
 # FocusListSupport
-Put your issues here
+Put your problems in Issues page and leave your e-mail.
